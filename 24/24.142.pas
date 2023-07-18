@@ -13,4 +13,4 @@ begin
       end
     else c := 1;
   writeln(m);    
-end.
+end. 
