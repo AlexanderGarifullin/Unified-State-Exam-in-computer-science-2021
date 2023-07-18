@@ -6,4 +6,4 @@ begin
       for w := false to true do 
         if (((x<=z)and(z<=w))or(y=(x or z))) = false then
           writeln (ord(y),' ',ord(z),' ',ord(w),' ',ord(x));
-end.
+end. 
